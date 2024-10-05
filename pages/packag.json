@@ -1,0 +1,120 @@
+{"packages":[
+  {
+    "ID": 41,
+    "mainName": "Mansaf",
+    "Ingredients": [
+      {"name": "Meat", "quantity": "1 kg", "image": "../images/meat.jpg"},
+      {"name": "Rice", "quantity": "1.5 kg", "image": "../images/rice.jpeg"},
+      {"name": "Jameed", "quantity": "2 liters", "image": "../images/jameed.jpg"},
+      {"name": "Almonds", "quantity": "200 grams", "image": "https://www.uraaw.ca/image/cache/catalog/NUTS/organic-almonds-400x400.jpg"}
+    ],
+    "category": "Packages",
+    "Price": 8.5,
+    "Serves": 5,
+    "DishImage": "../images/mansaf.jpeg"
+  },
+  {
+    "ID": 42,
+    "mainName": "Kabsa",
+    "Ingredients": [
+      {"name": "Chicken", "quantity": "1.2 kg", "image": "../images/chicken.jpg"},
+      {"name": "Rice", "quantity": "1 kg", "image": "../images/rice.jpeg"},
+      {"name": "Tomatoes", "quantity": "300 grams", "image": "../images/tomato.jpg"},
+      {"name": "Spices", "quantity": "50 grams", "image": "../images/spices.jpg"}
+    ],
+    "category": "Packages",
+    "Price": 6.5,
+    "Serves": 4,
+    "DishImage": "../images/kabsah.jpeg"
+  },
+  {
+    "ID": 43,
+    "mainName": "Maqluba",
+    "Ingredients": [
+      {"name": "Eggplant", "quantity": "1 kg", "image": "../images/Parsley.jpeg"},
+      {"name": "Rice", "quantity": "1 kg", "image": "../images/rice.jpeg"},
+      {"name": "Meat", "quantity": "700 grams", "image": "../images/meat.jpg"},
+      {"name": "Tomatoes", "quantity": "300 grams", "image": "../images/tomato.jpg"}
+    ],
+    "category": "Packages",
+
+    "Price": 7.5,
+    "Serves": 5,
+    "DishImage": "../images/maqluba.jpeg"
+  },
+  {
+    "ID": 44,
+    "mainName": "Shawarma",
+    "Ingredients": [
+      {"name": "Meat", "quantity": "500 grams", "image": "../images/meat.jpg"},
+      {"name": "Tahini", "quantity": "100 grams", "image": "https://images.pexels.com/photos/65174/pexels-photo-65174.jpeg"},
+      {"name": "Pickles", "quantity": "200 grams", "image": "https://images.pexels.com/photos/4109972/pexels-photo-4109972.jpeg"},
+      {"name": "Garlic", "quantity": "50 grams", "image": "https://images.pexels.com/photos/4103270/pexels-photo-4103270.jpeg"}
+    ],
+    "category": "Packages",
+
+    "Price": 3.5,
+    "Serves": 3,
+    "DishImage": "../images/Shawrma.jpg"
+  },
+  {
+    "ID": 45,
+    "mainName": "Musakhan",
+    "Ingredients": [
+      {"name": "Chicken", "quantity": "1.2 kg", "image": "../images/chicken.jpg"},
+      {"name": "Onion", "quantity": "500 grams", "image": "../images/onion.webp"},
+      {"name": "Olive Oil", "quantity": "200 ml", "image": "../images/Olive Oil.jpg"},
+      {"name": "Sumac", "quantity": "50 grams", "image": "../images/Sumac.jpg"}
+    ],
+    "category": "Packages",
+    "Price": 6,
+    "Serves": 4,
+    "DishImage": "../images/musakhan.jpeg"
+  },
+  {
+    "ID": 46,
+    "mainName": "Maftool",
+    "Ingredients": [
+      {"name": "Semolina", "quantity": "1 kg", "image": "../images/smeed.webp"},
+      {"name": "Chickpeas", "quantity": "300 grams", "image": "../images/Chickpeas.jpeg"},
+      {"name": "Chicken", "quantity": "1.2 kg", "image": "../images/chicken.jpg"},
+      {"name": "Onion", "quantity": "200 grams", "image": "../images/onion.webp"}
+    ],
+    "category": "Packages",
+
+    "Price": 5,
+    "Serves": 4,
+    "DishImage": "../images/Maftool.jpeg"
+  },
+  {
+    "ID": 47,
+    "mainName": "Mujadara",
+    "Ingredients": [
+      {"name": "Lentils", "quantity": "1 kg", "image": "https://images.pexels.com/photos/4110259/pexels-photo-4110259.jpeg"},
+      {"name": "Rice", "quantity": "500 grams", "image": "../images/rice.jpeg"},
+      {"name": "Onion", "quantity": "300 grams", "image": "../images/onion.webp"},
+      {"name": "Olive Oil", "quantity": "150 ml", "image": "../images/Olive Oil.jpg"}
+    ],
+    "category": "Packages",
+
+    "Price": 4,
+    "Serves": 4,
+    "DishImage": "../images/Mujadara.jpg"
+  },
+  {
+    "ID": 48,
+    "mainName": "Kofta",
+    "Ingredients": [
+      {"name": "Meat", "quantity": "1 kg", "image": "../images/meat.jpg"},
+      {"name": "Onion", "quantity": "200 grams", "image": "../images/onion.webp"},
+      {"name": "Parsley", "quantity": "100 grams", "image": "../images/Parsley.jpeg"},
+      {"name": "Spices", "quantity": "50 grams", "image": "../images/spices.jpg"}
+    ],
+    "category": "Packages",
+
+    "Price": 5.5,
+    "Serves": 4,
+    "DishImage": "../images/Kofta.webp"
+  }
+  ]
+}

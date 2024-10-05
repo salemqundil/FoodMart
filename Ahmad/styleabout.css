@@ -1,0 +1,136 @@
+.backgroundMian{
+    background-color: #E6F3FA;
+    width: auto;
+    height: 500px;
+}
+.section {
+    display: none;
+  }
+  .section.active {
+    display: flex;
+}
+.textMin {
+    direction: ltr;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; 
+    text-align: left;
+}
+.image-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 400px; 
+    padding: 20px;
+}
+.image-container img {
+    width: 50%; 
+    height: auto;
+    transition: transform 0.3s ease; 
+}
+.image-container img:hover {
+    transform: scale(1.2); 
+}
+.concentrate-mastr1{
+    direction: ltr;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; 
+    text-align: left;
+    transition: transform 0.3s ease; 
+    cursor: pointer;
+    height: 300px;
+    background-color: aliceblue;
+    transition: all .6s ease;
+
+}
+.concentrate-mastr1:hover{
+    border-radius: 5px;
+    background-color:aliceblue;
+    transform: scale(1.07);
+}
+.concentrate-mastr2{
+    direction: ltr;
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column; 
+    gap: 10px; 
+    text-align: left;
+    transition: transform 0.3s ease; 
+    cursor: pointer;
+    height: 300px;
+}
+.concentrate-mastr2:hover{
+    border-radius: 5px;
+    background-color: aliceblue;
+    transform: scale(1.07);
+}
+
+.city{
+    cursor: pointer;
+}
+.Achievements{
+    transition: all .6s ease;
+    cursor: pointer;
+    
+}
+.Achievements:hover{
+    transform: scale(1.07); 
+    
+}
+.section{
+    text-align: left;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted ;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color:transparent;
+    color: orange;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+  .salt {
+    position: relative; 
+}
+
+.tooltip{
+    visibility: hidden; 
+    width: 120px; 
+    background-color: transparent; 
+    color: black; 
+    text-align: center; 
+    border-radius: 5px; 
+    padding: 5px; 
+    position: absolute; 
+    z-index: 1; 
+    bottom: 125%; 
+    left: 50%; 
+    margin-left: -60px; 
+    opacity: 0; 
+    transition: opacity 0.3s; 
+}
+
+.nav-item:hover .tooltip {
+    visibility: visible; 
+    opacity: 1; 
+}
+.buyimg{
+    background-color: black;
+}
